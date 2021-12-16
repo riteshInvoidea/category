@@ -15,7 +15,7 @@
         }
     ],
     "require": {
-        "php": ">=7.4",
+        "php": ">=7.0",
         "another-vendor/package": "1.*"
     },
     "minimum-stability": "dev",
