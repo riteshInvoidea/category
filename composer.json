@@ -1,0 +1,20 @@
+{
+    "name": "invoidea/categorymodule",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Invoidea\\Categorymodule\\": "categorymodule/src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ritesh kumar",
+            "email": "ritesh@invoidea.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4",
+        "another-vendor/package": "1.*"
+    }
+}
