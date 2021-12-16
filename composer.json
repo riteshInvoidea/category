@@ -1,6 +1,7 @@
 {
     "name": "invoidea/categorymodule",
-    "type": "project",
+    "type": "library",
+    "homepage": "https://github.com/riteshInvoidea/category",
     "license": "MIT",
     "autoload": {
         "psr-4": {
